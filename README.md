@@ -47,3 +47,15 @@
 - Больше заказов через автоматизацию и соцсети.  
 
 ---
+
+## 🖼️ Скриншоты 
+![photo_2025-09-22_14-55-16](https://github.com/user-attachments/assets/c6fd2638-a9fe-454e-979b-57a031f08f61)
+![photo_2025-09-22_14-55-17 (2)](https://github.com/user-attachments/assets/708ec1c4-6ff2-4156-8938-4f5ea1354b9f)
+![photo_2025-09-22_14-55-17 (3)](https://github.com/user-attachments/assets/d78330af-d291-4429-bdac-ee84ee704647)
+![photo_2025-09-22_14-55-17](https://github.com/user-attachments/assets/a0c4afb2-fcfa-480b-a7a7-c8fc8b8d6de1)
+
+## 📩 Контакты  
+- Telegram: @devdariya 
+- Email: deva.dariia@proton.me  
+
+
